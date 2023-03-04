@@ -1,5 +1,5 @@
 # assembler_hello-world
-:axe: Acquaintance with assembler language, process instructions, system calls
+:axe: Acquaintance with assembly language, process instructions, system calls
 
 Привет, молодежь!
 Здесь я расскажу о том, как я несколько часов писал "Hello, world!" на языке ассемблера и с чем познакомился за это время, а именно:
