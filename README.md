@@ -1,16 +1,15 @@
 # assembler_hello-world
 :axe: Acquaintance with AT&T assembly language, process instructions, system calls
 
-Привет, молодежь!
-Здесь я расскажу о том, как я несколько часов писал "Hello, world!" на языке ассемблера и с чем познакомился за это время, а именно:
- - Синтаксис AT&T vs Intel, основные отличия
- - Инструкции mov, int, call, ret
- - Регистры общего назначения eax, ebx, ecx, edx
- - Транслятор as, линкер ld
- - Утилита hexdump. Выводит содержимаое файлов в 0x, ASCII, бинарном представлении
- - Работа с отладчиком, на который опираются многие IDE - GDB (GNU Debagger)
- 
- Информация, которая здесь представлена является лишь моим пониманием того, как на самом деле все это работает. Я могу ошибаться и буду рад, если меня поправят. 
- Мои контакты: el.shirak@internet.ru
+Hello! Here I will tell you about how I spent several hours writing "Hello, world!" in assembly language and what I got to know during this time, namely:
+
+- AT&T vs Intel syntax, the main differences
+- Instructions mov, int, call, return
+- General purpose registers eax, ebx, ecx, edx
+- Translator as, linker ld
+- The hexdump utility. Outputs the contents of files in 0x, ASCII, binary representation
+- Working with the debugger that many IDEs rely on - GDB (GNU Debugger)
+
+The information presented here is just my understanding of how it actually works. I can be wrong and I will be glad if I am corrected. My contacts:: el.shirak@internet.ru
 
 https://compscicenter.ru/videos/OS/
